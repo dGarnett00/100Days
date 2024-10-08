@@ -1,0 +1,7 @@
+myName = input("Whats your name?")
+myAddress = input("where you live?")
+myAge = input("how old are you?")
+print("yeah, i dont care")
+print( myName + " from " + myAddress)
+print("You are")
+print(myAge)
