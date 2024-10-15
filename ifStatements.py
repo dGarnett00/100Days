@@ -4,4 +4,4 @@ if myName == "David":
     print("You are welcome!")
 else:
     print("Sorry, but you are not David.")        #Single "=" changes something #single "=" 
-                                                # Double "=" assigns a value to a variable
+                                                # Double "=" assigns a value to a variable.
